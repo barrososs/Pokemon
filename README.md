@@ -1,6 +1,7 @@
-# Biblioteca PokeApiEsta 
+# Biblioteca PokeApi
 
-API de Pokémon utiliza PokeAPI para obtener información sobre los Pokémon, y cuenta con autenticación mediante Google OAuth y generación de tokens JWT. Además, la aplicación registra todas las peticiones y excepciones en un log.
+API de Pokémon utiliza PokeAPI para obtener información sobre los Pokémon, y cuenta con autenticación mediante Google OAuth y genera  tokens JWT. 
+Además, la aplicación registra todas las peticiones y excepciones en un log.
 
 
 # Requisitos
