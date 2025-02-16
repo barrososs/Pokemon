@@ -19,7 +19,7 @@ Flask-JWT-Extended==4.4.4
 
 requests==2.28.1
 
-Para instalar todas las dependencias, ejecuta en la raíz del proyecto:
+Para instalar las dependencias, ejecuta "pip install -r requirements.txt"
 
-pip install -r requirements.txt
+
 
