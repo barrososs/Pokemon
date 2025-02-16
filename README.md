@@ -12,10 +12,12 @@ Python 3.10 (o superior).
 Las dependencias necesarias están listadas en el archivo requirements.txt. Entre ellas se incluyen:
 
 Flask==2.2.2
+
 Flask-Dance==4.3.0
+
 Flask-JWT-Extended==4.4.4
+
 requests==2.28.1
-configparser
 
 Para instalar todas las dependencias, ejecuta en la raíz del proyecto:
 
