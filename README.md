@@ -7,7 +7,7 @@ Además, la aplicación registra todas las peticiones y excepciones en un log.
 # Requisitos
 Python 3.10 (o superior).
 
-# Biblioteca PokeApiEsta 
+# Dependencias
 
 Las dependencias necesarias están listadas en el archivo requirements.txt. Entre ellas se incluyen:
 
